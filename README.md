@@ -7,7 +7,7 @@
   
   [![GitHub followers](https://img.shields.io/github/followers/Vanshita-Gondaliya?label=Follow&style=social)](https://github.com/Vanshita-Gondaliya)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://vanshita-gondaliya.github.io/portfolio)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/vanshita-gondaliya)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/vanshita-gondaliya-749483371/)
   [![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vanshitagondaliya@gmail.com)
 </div>
 
